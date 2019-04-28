@@ -1,0 +1,66 @@
+# Linux curriculum at HOGENT - outline
+
+- [x] Request for feedback
+    - What skills/knowledge do you expect from a junior Linux system engineer/administrator?
+        - Both technical and non-technical!
+        - Specific Linux skills?
+- [x] General intro
+    - Our philosophy: T-shaped professional
+        - System Administrator also should have good development skills
+        - Within specialisation: Linux, Windows Server and Cisco CCNA
+    - bachelor
+    - 3 years, 2 semesters of 12 weeks
+    - Year 1: common curriculum
+    - Year 2: specialisation
+        - Software Development
+        - Network and System Administration
+    - Year 3: 2 additional specialisations
+        - E-business
+        - Mainframe Development and Administration
+- [ ] Linux in the curriculum
+    - [x] Year 1: 2 hour workshop
+        - based on Cisco Netacad Linux Unhatched course
+    - [x] Year 2, semester 1: part of course Operating Systems
+        - 12 two hour sessions
+        - Instruction + lab exercises
+        - Course material:
+            - Paul Cobbaut, Linux Fundamentals
+            - Lab exercises on Github (Markdown + shell scripts)
+            - Screencasts published on Youtube
+        - Exam:
+            - Written exam with preparation on prepared Linux VM
+            - VM without graphical desktop, but all tools and man pages installed
+    - [ ] Year 2, semester 2: System engineering project
+        - Teams of 4 students
+        - Relatively small assignments
+        - Specific to Linux: focus on scripting, automation
+            - Automate setup of LAMP stack with Vagrant + shell script
+            - Create VM with SAP development environment for students E-business
+            - Create a backup server
+    - [ ] Year 3, semester 1: Enterprise Linux
+        - 12 three hour sessions
+        - Instruction + lab assignments
+        - Focus:
+            - Configuration Management
+            - Bottom-up troubleshooting
+            - Use correct documentation
+        - Course material:
+            - Course syllabus (Github)
+            - Assignments (Github)
+            - Screencasts and relevant conference talks (Youtube)
+    - [ ] Year 3, semester 1: System engineering project
+        - Large Teams, one big assignment
+        - 12 weekly sessions
+            - W1-6: 3 hours, standup + teamwork
+            - W7: 1 day production release
+            - W8: retrospective
+            - W8-11: remediation, improvements
+            - W12: 4 hours, final production release
+        - Focus on:
+            - Working on a larger scale, in a larger team
+            - Automation (use Configuration Management) and reproducability
+            - Integration of services
+- [ ] Request for feedback
+    - What do you like?
+    - What do you miss?
+    - Concrete suggestions for improvement?
