@@ -152,9 +152,11 @@ Written exam with preparation on prepared VM
 - Short, open/closed questions
 - Scripting assignment
 
----
++++
 
 ![Linux exam VM](assets/img/ilnx-testlinux-vm.png)
+
+---
 
 ## System engineering project
 
@@ -292,7 +294,7 @@ Examples:
 
 ### Course material
 
-- "Handbook" = RedHat manuals
+- "Textbook" = RedHat manuals
     - <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/>
     - System Administrator's Guide
     - Networking Guide
@@ -378,6 +380,17 @@ Students must work individually between sessions!
     - production infra (cloud)
     - test infra (e.g. Vagrant)
     - CI/CD pipeline
+
+---
+
+## Linux curriculum overview
+
+- Year 1, sem 2: Workshop Linux
+- Year 2, sem 1: Introduction to Linux
+- Year 2, sem 2: System engineering project
+- Year 3, sem 1:
+    - Enterprise Linux
+    - System engineering project
 
 ---
 
