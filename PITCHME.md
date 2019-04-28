@@ -122,7 +122,7 @@ T-shaped IT professional
 
 ### Topics
 
-- Installation (VirtualBox, Fedora)
+- Installation (Fedora Workstation on VirtualBox)
 - Command line basics
 - Filesystem hierarchy
 - Working with text
@@ -154,6 +154,8 @@ Written exam with preparation on prepared VM
 
 ---
 
+![Linux exam VM](assets/img/ilnx-testlinux-vm.png)
+
 ## System engineering project
 
 +++
@@ -174,18 +176,35 @@ Written exam with preparation on prepared VM
 
 (for this academic year)
 
-1. Network equipment lab assignments
+- Network equipment lab assignments
     - Physical Cisco router/switching labs
-2. Automate web application server setup
+- Automate web application server setup
     - LAMP, WISA
     - Vagrant + VirtualBox
     - Deploy on IaaS platform (AWS, DigitalOcean, Azure)
 
 +++
 
-3. SME ict infrastructure analysis and design for external customer
-4. Microsoft Deployment Tookit proof-of-concept
-5. Backup server proof-of-concept for external customer
+![Networking lab](assets/img/netwerklabo.jpg)
+
++++
+
+![Network equipment racks](assets/img/netwerklabo-racks-02.jpg)
+
++++
+
+- SME ict infrastructure analysis and design for external customer
+- Microsoft Deployment Tookit proof-of-concept
+- Backup server proof-of-concept for external customer
+
++++
+
+### Linux specific tasks
+
+- Vagrant + VirtualBox
+- PoC LAMP stack with web application (e.g. Wordpress, Drupal)
+- Shell provisioning
+- Script should be reusable on cloud platform
 
 +++
 
@@ -200,15 +219,6 @@ Written exam with preparation on prepared VM
 - Rubrics (see <https://en.wikipedia.org/wiki/Rubric_(academic)>)
 - Product + process
 - Team members must prove their individual contribution!
-
-+++
-
-### Linux specific tasks
-
-- Vagrant + VirtualBox
-- PoC LAMP stack with web application (e.g. Wordpress, Drupal)
-- Shell provisioning
-- Script should be reusable on cloud platform
 
 ---
 
@@ -229,7 +239,7 @@ Written exam with preparation on prepared VM
 
 ### Assignments
 
-- Main assignment: choice
+- Main assignment: choice between
     - SME infrastructure
     - High Availability
     - Continuous Integration
@@ -270,13 +280,18 @@ Examples:
 
 ### Course material
 
-- Course syllabus: <github.com/hogenttin/elnx-syllabus>
+- Course syllabus: <https://github.com/hogenttin/elnx-syllabus>
     - Including lecture slides and demo environment
 - Assignments:
     - SME: <https://github.com/hogenttin/elnx-sme>
         - includes acceptance tests in BATS
     - HA: <https://github.com/hogenttin/elnx-ha>
     - CI: <https://github.com/hogenttin/elnx-cd>
+
++++
+
+### Course material
+
 - "Handbook" = RedHat manuals
     - <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/>
     - System Administrator's Guide
@@ -302,7 +317,7 @@ Examples:
 ### Year 3, sem 1: System engineering project
 
 - Large teams, one big assignment
-- 12 weekly sessions
+- 12 weekly sessions (3 hrs)
 - Focus on:
     - Larger scale, larger team
     - Automation and reproducability
@@ -317,13 +332,29 @@ Examples:
 
 ### Planning
 
-- W1-6: 3 hours, standup + teamwork
+- W1-6: standup + teamwork
 - W7: whole day rehearsal production release
 - W8: retrospective
 - W8-11: remediation & improvements
 - W12: 4 hours, final production release
 
 Students must work individually between sessions!
+
++++
+
+![Studenst preparing production release](assets/img/p3ops-01.jpg)
+
++++
+
+![Studenst preparing production release](assets/img/p3ops-02.jpg)
+
++++
+
+![Team Green's Kanban board](assets/img/p3ops-03.jpg)
+
++++
+
+![Let there be pizza!](assets/img/p3ops-04.jpg)
 
 +++
 

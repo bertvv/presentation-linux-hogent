@@ -30,7 +30,7 @@
         - Exam:
             - Written exam with preparation on prepared Linux VM
             - VM without graphical desktop, but all tools and man pages installed
-    - [ ] Year 2, semester 2: System engineering project
+    - [x] Year 2, semester 2: System engineering project
         - Teams of 4 students
         - Relatively small assignments
         - Specific to Linux: focus on scripting, automation
@@ -48,7 +48,7 @@
             - Course syllabus (Github)
             - Assignments (Github)
             - Screencasts and relevant conference talks (Youtube)
-    - [ ] Year 3, semester 1: System engineering project
+    - [x] Year 3, semester 1: System engineering project
         - Large Teams, one big assignment
         - 12 weekly sessions
             - W1-6: 3 hours, standup + teamwork
@@ -60,7 +60,7 @@
             - Working on a larger scale, in a larger team
             - Automation (use Configuration Management) and reproducability
             - Integration of services
-- [ ] Request for feedback
+- [x] Request for feedback
     - What do you like?
     - What do you miss?
     - Concrete suggestions for improvement?
