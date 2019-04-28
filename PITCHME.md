@@ -189,7 +189,7 @@ Written exam with preparation on prepared VM
 
 +++
 
-![Network equipment racks](assets/img/netwerklabo-racks-02.jpg)
+![Network equipment racks](assets/img/netwerklabo-racks.jpg)
 
 +++
 
